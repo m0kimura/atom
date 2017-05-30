@@ -1,0 +1,14 @@
+'core':
+  'excludeVcsIgnoredPaths': true
+'editor':
+  'fontSize': 18
+  'fontFamily': 'takaoGothic'
+  'preferredLineLength': 100
+  'showIndentGuide': true
+  'showLineNumbeers': true
+  'softWrap': false
+  'tabLength': 2
+'whitespace':
+  'ensureSingleTrailingNewLine': true
+  'removeTrailingWhitespace': true
+
